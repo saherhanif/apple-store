@@ -1,0 +1,8 @@
+.filterContainer{
+  display: flex;
+  margin-bottom: 40px;
+  font-size: 120%;
+  color:aliceblue;
+  justify-content: space-between;
+  margin-right: 500px;
+}

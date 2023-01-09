@@ -1,0 +1,82 @@
+.container2{
+display: inline-block;
+  vertical-align: text-top;
+}
+.paymentCart{
+  background-color: grey;
+  width: 400px;
+  float: right;
+  margin-right: 20px;
+  border-radius: 20px;
+  width: 800px;
+  margin-bottom: 50px;
+  
+}
+li{
+  display:block ;
+  background-color: #CE7F7F;
+  margin-right: 35px;
+  border-radius: 10px;
+  box-shadow: 5px 5px black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+ul li img{
+  width: 100px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+ul li .paymentRemoveBtn{
+  float: right;
+  margin-top: 90px;
+  border-radius: 50px;
+  height: 10px;
+  color:black;
+  content: "\00d7";
+  background-color: #e9e7e7;
+  width: 40px;
+}
+
+
+ul li .paymentRemoveBtn:after{
+  display: inline-block;
+  content: "\00d7"; 
+  
+ 
+  
+}
+
+
+.paymentContainer #name{
+  margin-left: 50px;
+  width: 475px;
+  height: 30px;
+}
+#creditCard{
+  width: 475px;
+  height: 30px;
+  margin-left: 20px;
+}
+
+#expireDate{
+  width:200px;
+  height: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#cvv{
+  width:200px;
+  height: 30px;
+  margin-left: 20px;
+}
+
+.paymentContainer{
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  width: 800px;
+  border-radius: 20px;
+  margin-bottom: 30px;
+ 
+}

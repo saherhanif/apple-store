@@ -1,0 +1,51 @@
+[
+ {
+  "type":"airpods",
+  "name": "AirPods (1st generation)",
+  "model": "AirPods1,1",
+  "image": "airpods-gen1.jpeg",
+  "description":"With plenty of talk and listen time, voice-activated Siri access, and an available wireless charging case, AirPods deliver an incredible wireless headphone experience. Simply take them out and they’re ready to use with all your devices. Put them in your ears and they connect immediately, immersing you in rich, high-quality sound. Just like magic.",
+  "price":"259"
+ },
+ {
+  "type":"airpods",
+  "name": "AirPods (2nd generation)",
+  "model": "AirPods2,1",
+  "image": "airpods-gen2.jpeg",
+  "description":"With plenty of talk and listen time, voice-activated Siri access, and an available wireless charging case, AirPods deliver an incredible wireless headphone experience. Simply take them out and they’re ready to use with all your devices. Put them in your ears and they connect immediately, immersing you in rich, high-quality sound. Just like magic.",
+  "price":"450"
+ },
+ {
+  "type":"airpods",
+  "name": "AirPods (3rd generation)",
+  "model": "AirPods1,3",
+  "image": "airpods-gen3.jpeg",
+  "description":"Personalized Spatial Audio with dynamic head tracking places sounds all around you to create a three-dimensional listening experience for music, TV shows, movies, and more — immersing you in sounds from every direction so it feels like you’re in your very own concert hall or theater.",
+  "price":"600"
+ },
+ {
+  "type":"airpods",
+  "name": "AirPods Max",
+  "model": "AirPodsMax1,1",
+  "image": "airpods-max.jpeg",
+  "description":"Introducing AirPods Max — a perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods. The ultimate personal listening experience is here.",
+  "price":"1920"
+ },
+ {
+  "type":"airpods",
+  "name": "AirPods Pro",
+  "model": "AirPods2,2",
+  "image": "airpods-pro(gen1).jpeg",
+  "description":"The new Apple‑designed H2 chip is the force behind AirPods Pro and its advanced audio performance. It works in concert with a custom‑built driver and amplifier to deliver crisp, clear high notes and deep, rich bass in stunning definition — so every sound is more vivid than ever.",
+  "price":"650"
+ },
+ {
+  "type":"airpods",
+  "name": "AirPods Pro (2nd generation)",
+  "model": "AirPodsPro1,2",
+  "image": "airpods-pro(gen2).jpeg",
+  "description":"The new Apple‑designed H2 chip is the force behind AirPods Pro and its advanced audio performance. It works in concert with a custom‑built driver and amplifier to deliver crisp, clear high notes and deep, rich bass in stunning definition — so every sound is more vivid than ever.",
+  "price":"850"
+ }
+
+]

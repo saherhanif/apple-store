@@ -1,0 +1,73 @@
+.container3{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap:wrap;
+  background-color: aliceblue;
+  width: cover;
+  gap:4em;
+
+}
+.order{
+  background-color: gainsboro;
+ margin-right: 100px;
+ border-radius: 20px;
+ margin:10px;
+ height: 600px;
+ width: 1000px;
+ box-shadow: 5px 5px rgb(67, 51, 51);
+ display: inline-block;
+ flex-direction: row;
+ grid-template-columns: repeat(3, 1fr);
+ grid-template-rows: repeat(3, 100px);
+
+ text-align: center;
+ 
+
+ 
+ 
+ 
+}
+
+.productsOrder2{
+   width:200px; 
+  height: 100px;
+  padding: 20px; 
+
+}
+
+.order img{
+  width: 50px;
+}
+ .orderInfo{
+  float: left;
+  margin-top: 20px;
+  width: 150px;
+
+ }  
+
+ .productContainer{
+   width: 100%;
+ 
+  display: flex;
+  flex-direction: row;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 100px);
+  grid-auto-rows: auto;
+  row-gap: 3em;
+  height: auto;
+  margin-bottom: 0px; 
+
+ }
+
+ .userInfo{
+  width: 300px;
+  margin-top: 40px;
+  font-size: 140%;
+
+ }
+
+ .orderTotalPrice{
+   background-color: rgb(207, 162, 132);
+   border-radius: 0px 10px 10px 0px;
+ }

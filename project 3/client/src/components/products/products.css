@@ -1,0 +1,157 @@
+html{
+  background-color: #302727;
+}
+
+p{
+  line-height: 20px;
+  font-size: 18px;      
+  font-weight: bold;   
+  text-align: center;
+}
+.search{
+  width: 500px;
+  height: 30px;
+}
+
+.container{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+ 
+}
+.card{
+  background-color: #D9D9D9;
+  align-items: center;
+  justify-content: center;
+  margin-right: 1rem;
+  border-radius: 10px;
+  padding: 1rem;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: calc(33.33% - 250px);
+  font-size:1vw;
+  margin-bottom: 2rem;
+  word-wrap: break-word;
+  min-height: 550px;
+  min-width: 300px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  box-shadow:5px 10px #CE7F7F;
+  line-height : 10px;
+  
+}
+.card img{
+  box-shadow: 5px 5px #CE7F7F;
+  border-radius: 10px;
+}
+
+
+.card.expanded {
+  display: flex;
+  flex-direction: row;
+
+}
+
+h1{
+  font-size: 40px ;
+  color: white;
+ 
+}
+.product-description {
+  overflow: hidden;
+  height: 0;
+  transition: height 0.5s ease-in-out;
+}
+
+.product-description.visible {
+  height: auto;
+  
+}
+
+/* CSS */
+button {
+  background: #CE7F7F;
+  border: 1px solid #CE7F7F;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+button:hover,
+button:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #CE7F7F;
+}
+
+button:active {
+  opacity: .5;
+}
+
+.cart{
+  background-color: grey;
+  width: 400px;
+  float: right;
+  margin-right: 20px;
+  border-radius: 20px;
+}
+li{
+  display:block ;
+  background-color: #CE7F7F;
+  margin-right: 35px;
+  border-radius: 10px;
+  box-shadow: 5px 5px black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+ul li img{
+  width: 50px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+.removeBtn{
+  border-radius: 50px;
+  height: 10px;
+  color:black;
+  
+  display: inline-block;
+  content: "\00d7";
+  background-color: #fefbfb;
+  width: 40px;
+  
+}
+
+.removeBtn:after{
+  display: inline-block;
+  content: "\00d7"; 
+  
+}
+
+
+
+

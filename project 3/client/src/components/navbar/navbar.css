@@ -1,0 +1,59 @@
+.navbar{
+  overflow: hidden;
+  background-color: black;
+  color: black;
+  width:100%;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  
+}
+a{
+  color: white;
+  padding: 20px;
+}
+
+.logout{
+  float:  right;
+  display: flex;
+  margin-right: 40px;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.fa-shopping-cart{
+  float:  right;
+  display: flex;
+  margin-right: 20px;
+  justify-content: space-between;
+  position:relative;
+  margin-right: 10px;
+}
+.logout .welcomeUser{
+  margin-right: 30px;
+  
+}
+
+.orderHistory{
+  float: left;
+}
+
+
+/* .logout h3{
+  display: flex;
+  margin-right: 40px;
+  margin-right: 50px;
+  
+} */
+
+
+/* 
+.cartBtn{
+  float: right;
+  margin-left: 40px;
+  margin-right: 180px;
+ 
+} */
+

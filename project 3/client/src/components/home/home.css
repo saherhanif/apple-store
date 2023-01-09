@@ -1,0 +1,98 @@
+.main{
+  margin-top: 30px;
+}
+.hero{
+  background-image: url('../../images/home.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 600px;
+  color: white;
+  
+}
+.hero .intro{
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.productType{
+  display: flex;
+  gap:20px;
+  margin-top: 50px;
+  flex-wrap: wrap;  
+ justify-content: space-around;
+}
+.homeCard{
+  min-width: 100px !important;
+  min-height: 180px !important;
+  flex-direction: column  !important;
+  justify-content: space-around !important;
+
+}
+.productCard{
+  display: flex;
+  background-color: #908181;
+  align-items: center;
+  
+}
+.productCard img{
+min-height: 100%;
+}
+.randomProducts{
+  display: flex;
+  flex-direction: column;
+  margin-inline: 100px ;
+  gap: 25px;
+}
+.homeCard a{
+  color: black;
+}
+.homeCard img{
+width: 100%;
+height: 200px;    
+}
+.buttonDiv{
+  width: 30%;
+}
+.hero p{
+ width: 30%;
+ text-align: center ;
+}
+.hero h2{
+  width: 30%;
+  text-align: center ;
+}
+button {
+  background: #CE7F7F;
+  border: 1px solid #CE7F7F;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+ 
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+ 
+}
+
+.welcomeUser{
+  color: white;
+  float:right;
+  margin-right: 50px;
+  font-size: 25px;
+
+}

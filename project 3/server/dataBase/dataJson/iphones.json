@@ -1,0 +1,74 @@
+[
+  {
+    "type":"iphone",
+    "name": "iPhone 12",
+    "model": "iPhone13,2",
+   "image": "iphone-12.jpg",
+   "description":"The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less). Both models: HDR display.",
+   "price":"2549"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 12 Pro",
+    "model": "iPhone13,3",
+   "image": "iphone-12-pro.jpg",
+   "description":"The iPhone 12 Pro features a 6.1-inch display (a bit bigger than the 5.8 on the iPhone 11 Pro) and starts at a price of $1,000, and arrives in Apple's three signature colors: silver, graphite, and gold, as well as a fourth, brand new color option, a blue model. Storage for the base model is 128GB, and you can also buy a 256GB and a 512GB versions.",
+   "price":"2899"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 12 Pro Max",
+    "model": "iPhone13,4",
+   "image": "iphone-12-promax.jpg",
+   "description":"The iPhone 12 Pro Max has a 6.7-inch screen (slightly larger than the 6.5 on the iPhone 11 Pro Max), and its base price is set at $1,100. It arrives in the same choice of colors: silver, graphite, gold and the new blue option, and it is also offered in the same storage capacities: 128GB, 256GB, and 512GB.",
+   "price":"3099"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 13",
+    "model": "iPhone14,5",
+   "image": "iphone-13.jpg",
+   "description":"The iPhone 13 is the successor to Apple's best selling iPhone 12, and it improves upon a successful formula: $800 price for a flagship processor and a 6.1-inch screen size that is not too large, nor too small. The iPhone 13 brings a new Apple A15 Bionic chip and improvements to the dual camera setup consisting of a wide and ultra-wide camera.",
+   "price":"3099"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 13 Pro",
+    "model": "iPhone14,2",
+   "image": "iphone-13-pro.jpg",
+   "description":"The iPhone 13 Pro is Apple's smaller premium iPhone with a 6.1 screen size and for the first time in an iPhone, it comes with a 120Hz ProMotion display for super smooth scrolling. The list of innovations includes a more capable triple camera setup, with a wide, ultra-wide and zoom cameras, as well as a LiDAR scanner.",
+   "price":"3599"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 13 Pro Max",
+    "model": "iPhone14,3",
+   "image": "iphone-13-promax.jpg",
+   "description":"The iPhone 13 Pro Max is Apple's biggest phone in the lineup with a massive, 6.7 screen that for the first time in an iPhone comes with 120Hz ProMotion display that ensures super smooth scrolling. The benefit of such a gigantic phone is that it also comes with the biggest battery of all iPhone 13 series. Apple also introduces improvements to all three cameras on the Pro Max, the wide, ultra-wide and telephoto zoom ones, but there is no periscope style long-range zoom like on many Android phones.",
+   "price":"3799"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 14",
+    "model": "iPhone14,7",
+   "image": "iphone-14.jpg",
+   "description":"iPhone 14 has the same superspeedy chip that's in iPhone 13 Pro. A15 Bionic, with a 5‑core GPU, powers all the latest features and makes graphically intense games and AR apps feel ultrafluid. An updated internal design delivers better thermal efficiency, so you can stay in the action longer.",
+   "price":"3999"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 14 Pro",
+    "model": "iPhone15,2",
+   "image": "iphone-14-pro.jpg",
+   "description":"The iPhone 14 Pro comes with a 6.1-inch ProMotion OLED display with 1-120Hz adaptive refresh rates, Dolby Vision, and a Face ID Dynamic Island that allows Apple to utilize an always-on display feature, which dims the lock screen similarly to an Apple Watch.",
+   "price":"4399"
+  },
+  {
+    "type":"iphone",
+    "name": "iPhone 14 Pro Max",
+    "model": "iPhone15,3",
+   "image": "iphone-14-promax.jpg",
+   "description":"The iPhone 14 Plus comes with 6.7-inch OLED display with 120Hz refresh rate and Apple's improved Bionic A16 processor. On the back there is a Triple camera setup with 48MP main camera.",
+   "price":"4699"
+  }
+]

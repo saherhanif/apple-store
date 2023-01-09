@@ -1,0 +1,75 @@
+[
+  {
+    "type":"ipad",
+    "name": "iPad (7th generation)",
+    "model": "iPad7,12",
+    "image": "ipad-gen7.jpg",
+    "description":"The display is now a 10.2” Retina display. Powered by the Apple A10 chipset and available with either 32 or 128GB of storage, the iPad now supports Apple Pencil and the Apple Smart Keyboard. There’s even a headphone jack here. The new iPad OS makes the rounds here, allowing for improved multitasking, external storage support, and overall better iPad experience. The Wi-Fi 7th gen iPad starts at $329 for the 32GB version, while the 128GB will cost you $429. The Wi-Fi + Cellular iPad costs $429 for the 32GB one, while the 128GB one costs $599.",
+    "price":"1155"
+  },
+  {
+    "type":"ipad",
+  "name": "iPad (8th generation)",
+  "model": "iPad11,6",
+   "image": "ipad-gen8.jpg",
+   "description":"The Apple iPad (2020) specs include Apple A12 Bionic chipset, 10.2-inch Retina display, 32GB/128GB storage and iPadOS 14. The tablet is available for the starting price of $329.",
+   "price":"1200"
+  },
+  {
+    "type":"ipad",
+   "name": "iPad (9th generation)",
+   "model": "iPad12,1",
+   "image": "ipad-gen9.jpg",
+   "description":"The iPad 10.2 (2021) is offering 10.2 inch display that supports Apple Pencil and it has Wi-Fi only model or with LTE enabled. The tablet comes with 8526mAh battery, Apple A13 Bionic processor and offers two internal storage variants - 64GB or 256GB.",
+   "price":"2399"
+  },
+  {
+    "type":"ipad",
+    "name": "iPad Air",
+    "model": "iPad4,1",
+   "image": "ipad-air-1.png",
+   "description":"Here are the iPad Air 1's basic specs: A7 processor chip with 64bit architecture and M7 motion coprocessor. 9.7-inch (diagonal) LED-backlit MultiTouch Retina display with IPS technology, 2048×1536 resolution at 264 pixels per inch (ppi) and fingerprint-resistant oleophobic coating.",
+   "price":"1549"
+  },
+  {
+    "type":"ipad",
+   "name": "iPad Air 2",
+   "model": "iPad5,3",
+   "image": "ipad-air-2.jpg",
+   "description":"The iPad Air 2 is technically Apple's sixth generation iPad, and the second to carry the 'Air' moniker. It's slightly thinner than the original Air, but differs little in appearance. The main changes are under the hood: the tablet runs on iOS 8 and is powered by Apple's A8X chip, and it gets a higher-resolution 8-megapixel camera.",
+   "price":"1899"
+  },
+  {
+    "type":"ipad",
+    "name": "iPad Air (3rd generation)",
+    "model": "iPad11,3",
+   "image": "ipad-air-3.jpg",
+   "description":"The iPad (2022) comes with 10.9-inch display and Apple A14 Bionic processor. Specs also include Single camera on the back with 12MP and 64GB or 256GB internal storage options.",
+   "price":"1999"
+  },
+  {
+    "type":"ipad",
+    "name": "iPad Air (4th generation)",
+    "model": "iPad13,1",
+    "image": "ipad-air-4.png",
+    "description":"The Apple iPad Air (2020) or 4th generation is the first Apple device powered by the next-gen 5nm A14 Bionic chipset. Other specs include a 10.9-inch Liquid Retina display, 12MP main camera, USB Type-C, and five new colors.",
+    "price":"2199"
+  },
+  {
+    "type":"ipad",
+    "name": "iPad Air (5th generation)",
+    "model": "iPad13,16",
+    "image": "ipad-air-5.png",
+    "description":"The Apple iPad Air (2022) or 5th generation is the first Apple device powered by the next-gen Apple M1 chipset. Other specs include a 10.9-inch Liquid Retina display, 12MP main camera, USB Type-C and 12MP front Selfie camera.",
+    "price":"2399"
+   },
+    {
+      "type":"ipad",
+      "name": "iPad Pro (11-inch)",
+      "model": "iPad8,3",
+      "image": "ipad-pro.jpg",
+      "description":"The Apple iPad Pro is the largest iPad in Apple's tablet lineup with a 12.9-inch diplay that makes it a perfect tool for productivity. The iPad Pro has tight intergration and support for the Microsoft Office suite and creative Adobe apps, and it comes with two key accessories: the Smart Keyboard that docks to the tablet via a dedicated magnetic connector on the slate, and the new Apple Pencil that supports various levels of pressure that allow you to draw with great precision. These two accessories are sold separately. On its own, the iPad Pro is a powerful tablet featurign the Apple A9X system chip. In terms of design, it keeps the iPad Air styling and is about as lightweight as the original iPad.",
+      "price":"3699"
+    }
+
+]
